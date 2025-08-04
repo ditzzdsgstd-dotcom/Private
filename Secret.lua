@@ -1,7 +1,7 @@
 -- YoxanXHub | Sniper Finder V1 (1/5)
 local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/1nig1htmare1234/SCRIPTS/main/Orion.lua"))()
 local Window = OrionLib:MakeWindow({
-    Name = "YoxanXHub | Sniper Finder V1",
+    Name = "YoxanXHub | Sniper Finder V0",
     HidePremium = false,
     SaveConfig = false,
     ConfigFolder = "YoxanXHub_Sniper"
